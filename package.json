@@ -1,0 +1,23 @@
+{
+  "name": "cyclejs-isolate-color-picker-svg-pan-and-zoom-components5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@cycle/dom": "22.3.0",
+    "@cycle/isolate": "5.0.0",
+    "@cycle/xstream-run": "4.2.0",
+    "cycle-color-picker": "1.0.5",
+    "cycle-svg-pan-and-zoom": "0.1.2",
+    "xstream": "11.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
