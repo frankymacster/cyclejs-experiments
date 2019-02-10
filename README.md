@@ -4,12 +4,12 @@ https://dev.to/jvanbruegge/inside-a-framework---how-the-cyclejs-dom-driver-works
 
 https://codesandbox.io/s/zoz78wxj4
 
-<img src='https://g.gravizo.com/svg?
- digraph G {
-   main -> counter1;
-   main -> counter2;
-   main -> cycle-color-picker;
-   main -> cycle-svg-pan-and-zoom;
-   main -> value-calc;
- }
-'/>
+![Alt text](https://g.gravizo.com/svg?
+digraph G {
+main -> counter1;
+main -> counter2;
+main -> cycle-color-picker;
+main -> cycle-svg-pan-and-zoom;
+main -> value-calc;
+}
+)
